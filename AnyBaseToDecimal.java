@@ -5,7 +5,7 @@ public class AnyBaseToDecimal {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a binary number: ");
         int binaryNumber = sc.nextInt();
-        System.out.print("Enter the base to convert: ");
+        System.out.print("Enter the base to convert into Decimal: ");
         int base = sc.nextInt();
         sc.close();
         convertBinaryToDecimal(binaryNumber, base);

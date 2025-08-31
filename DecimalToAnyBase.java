@@ -22,7 +22,7 @@ public class DecimalToAnyBase {
             power++;
 
         }
-        System.out.println("Binary representation: " + result);
+        System.out.println("Any representation: " + result);
     }
 
 }
